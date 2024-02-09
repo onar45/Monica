@@ -1584,8 +1584,11 @@ font-family: var(--paragraph-text);
   }
 
 .grid-text h1{
-  font-size: 5em;
+  font-size: 3em;
   padding-bottom: 2em;
+}
+.grid-text5 h1{
+  font-size: 3em;
 }
 
 .grid-text1 h1{
@@ -1623,11 +1626,12 @@ font-family: var(--paragraph-text);
 
 
 .grid-text7 h1{
-  font-size: 3em;
+  font-size: 2em;
 }
 
 .grid-text7 p{
   padding: 1.5em;
+  font-size: 1.2em;
 }
 
 .worktogether{
